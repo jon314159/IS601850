@@ -22,3 +22,4 @@ git add - Add a file
 
 git commit -m "Message" – commit staged changes with a description of changes
 
+git remote add origin "URL" – adds remote repo
