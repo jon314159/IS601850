@@ -6,4 +6,6 @@ mkdir - creates new directory
 
 touch – create an empty fil
 
-rm – remove files or directoriese
+rm – remove files or directories
+
+ls – list directory contents
