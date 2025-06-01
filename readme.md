@@ -11,3 +11,5 @@ rm – remove files or directories
 ls – list directory contents
 
 vi - opens text editor
+
+find – searches for a file
