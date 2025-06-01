@@ -19,3 +19,6 @@ git clone "repoURL" – clone a repo from GitHub
 git status – check current changes
 
 git add - Add a file
+
+git commit -m "Message" – commit staged changes with a description of changes
+
