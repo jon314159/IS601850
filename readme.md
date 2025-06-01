@@ -17,3 +17,5 @@ find – searches for a file
 git clone "repoURL" – clone a repo from GitHub
 
 git status – check current changes
+
+git add - Add a file
