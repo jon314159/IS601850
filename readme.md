@@ -4,4 +4,6 @@ dir - lists the current directory
 
 mkdir - creates new directory
 
-touch – create an empty file
+touch – create an empty fil
+
+rm – remove files or directoriese
