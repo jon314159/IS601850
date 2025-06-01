@@ -9,3 +9,5 @@ touch – create an empty fil
 rm – remove files or directories
 
 ls – list directory contents
+
+vi - opens text editor
