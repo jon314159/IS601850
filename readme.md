@@ -1,3 +1,4 @@
+
 Linux and Git Cheat Sheet
 
 cd - changes directory, can take an argument for folder otherwise goes back to home directory
@@ -29,3 +30,5 @@ git remote add origin "URL" – adds remote repo
 git push – "pushes" a commit, adding your code to remote repo
 
 git pull – pull latest code from remote repo
+
+git branch - displays what branch you are using
